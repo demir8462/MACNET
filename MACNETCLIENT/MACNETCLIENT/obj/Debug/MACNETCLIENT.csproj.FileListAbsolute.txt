@@ -1,0 +1,10 @@
+C:\Users\56\source\repos\MACNETCLIENT\MACNETCLIENT\bin\Debug\MACNETCLIENT.exe.config
+C:\Users\56\source\repos\MACNETCLIENT\MACNETCLIENT\bin\Debug\MACNETCLIENT.exe
+C:\Users\56\source\repos\MACNETCLIENT\MACNETCLIENT\bin\Debug\MACNETCLIENT.pdb
+C:\Users\56\source\repos\MACNETCLIENT\MACNETCLIENT\obj\Debug\MACNETCLIENT.Form1.resources
+C:\Users\56\source\repos\MACNETCLIENT\MACNETCLIENT\obj\Debug\MACNETCLIENT.Properties.Resources.resources
+C:\Users\56\source\repos\MACNETCLIENT\MACNETCLIENT\obj\Debug\MACNETCLIENT.csproj.GenerateResource.cache
+C:\Users\56\source\repos\MACNETCLIENT\MACNETCLIENT\obj\Debug\MACNETCLIENT.csproj.CoreCompileInputs.cache
+C:\Users\56\source\repos\MACNETCLIENT\MACNETCLIENT\obj\Debug\MACNETCLIENT.exe
+C:\Users\56\source\repos\MACNETCLIENT\MACNETCLIENT\obj\Debug\MACNETCLIENT.pdb
+C:\Users\56\source\repos\MACNETCLIENT\MACNETCLIENT\obj\Debug\MACNETCLIENT.csprojAssemblyReference.cache
