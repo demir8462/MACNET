@@ -1,0 +1,10 @@
+C:\Users\56\source\repos\TempCounter\TempCounter\bin\Release\TempCounter.exe.config
+C:\Users\56\source\repos\TempCounter\TempCounter\bin\Release\TempCounter.exe
+C:\Users\56\source\repos\TempCounter\TempCounter\bin\Release\TempCounter.pdb
+C:\Users\56\source\repos\TempCounter\TempCounter\obj\Release\TempCounter.Form1.resources
+C:\Users\56\source\repos\TempCounter\TempCounter\obj\Release\TempCounter.Properties.Resources.resources
+C:\Users\56\source\repos\TempCounter\TempCounter\obj\Release\TempCounter.csproj.GenerateResource.cache
+C:\Users\56\source\repos\TempCounter\TempCounter\obj\Release\TempCounter.csproj.CoreCompileInputs.cache
+C:\Users\56\source\repos\TempCounter\TempCounter\obj\Release\TempCounter.exe
+C:\Users\56\source\repos\TempCounter\TempCounter\obj\Release\TempCounter.pdb
+C:\Users\56\source\repos\TempCounter\TempCounter\obj\Release\TempCounter.csprojAssemblyReference.cache

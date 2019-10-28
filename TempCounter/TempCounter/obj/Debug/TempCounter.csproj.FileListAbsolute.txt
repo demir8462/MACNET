@@ -1,0 +1,9 @@
+C:\Users\56\source\repos\TempCounter\TempCounter\bin\Debug\TempCounter.exe.config
+C:\Users\56\source\repos\TempCounter\TempCounter\bin\Debug\TempCounter.exe
+C:\Users\56\source\repos\TempCounter\TempCounter\bin\Debug\TempCounter.pdb
+C:\Users\56\source\repos\TempCounter\TempCounter\obj\Debug\TempCounter.Form1.resources
+C:\Users\56\source\repos\TempCounter\TempCounter\obj\Debug\TempCounter.Properties.Resources.resources
+C:\Users\56\source\repos\TempCounter\TempCounter\obj\Debug\TempCounter.csproj.GenerateResource.cache
+C:\Users\56\source\repos\TempCounter\TempCounter\obj\Debug\TempCounter.csproj.CoreCompileInputs.cache
+C:\Users\56\source\repos\TempCounter\TempCounter\obj\Debug\TempCounter.exe
+C:\Users\56\source\repos\TempCounter\TempCounter\obj\Debug\TempCounter.pdb

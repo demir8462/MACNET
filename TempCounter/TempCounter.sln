@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.88
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TempCounter", "TempCounter\TempCounter.csproj", "{06434B27-11DF-42DA-AF0F-8CB4D632F8BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06434B27-11DF-42DA-AF0F-8CB4D632F8BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06434B27-11DF-42DA-AF0F-8CB4D632F8BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06434B27-11DF-42DA-AF0F-8CB4D632F8BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06434B27-11DF-42DA-AF0F-8CB4D632F8BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9830C837-66DC-4E44-8847-A83A97F6D64B}
+	EndGlobalSection
+EndGlobal
