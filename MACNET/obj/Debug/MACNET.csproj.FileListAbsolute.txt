@@ -1,0 +1,11 @@
+C:\Users\56\source\repos\MACNET\MACNET\bin\Debug\MACNET.exe.config
+C:\Users\56\source\repos\MACNET\MACNET\bin\Debug\MACNET.exe
+C:\Users\56\source\repos\MACNET\MACNET\bin\Debug\MACNET.pdb
+C:\Users\56\source\repos\MACNET\MACNET\obj\Debug\MACNET.Form1.resources
+C:\Users\56\source\repos\MACNET\MACNET\obj\Debug\MACNET.Properties.Resources.resources
+C:\Users\56\source\repos\MACNET\MACNET\obj\Debug\MACNET.csproj.GenerateResource.cache
+C:\Users\56\source\repos\MACNET\MACNET\obj\Debug\MACNET.csproj.CoreCompileInputs.cache
+C:\Users\56\source\repos\MACNET\MACNET\obj\Debug\MACNET.exe
+C:\Users\56\source\repos\MACNET\MACNET\obj\Debug\MACNET.pdb
+C:\Users\56\source\repos\MACNET\MACNET\obj\Debug\MACNET.ClientPanel.resources
+C:\Users\56\source\repos\MACNET\MACNET\obj\Debug\MACNET.StartUP.resources

@@ -1,0 +1,12 @@
+C:\Users\56\source\repos\MACNET\MACNET\bin\Release\MACNET.exe.config
+C:\Users\56\source\repos\MACNET\MACNET\bin\Release\MACNET.exe
+C:\Users\56\source\repos\MACNET\MACNET\bin\Release\MACNET.pdb
+C:\Users\56\source\repos\MACNET\MACNET\obj\Release\MACNET.ClientPanel.resources
+C:\Users\56\source\repos\MACNET\MACNET\obj\Release\MACNET.Form1.resources
+C:\Users\56\source\repos\MACNET\MACNET\obj\Release\MACNET.Properties.Resources.resources
+C:\Users\56\source\repos\MACNET\MACNET\obj\Release\MACNET.StartUP.resources
+C:\Users\56\source\repos\MACNET\MACNET\obj\Release\MACNET.csproj.GenerateResource.cache
+C:\Users\56\source\repos\MACNET\MACNET\obj\Release\MACNET.csproj.CoreCompileInputs.cache
+C:\Users\56\source\repos\MACNET\MACNET\obj\Release\MACNET.exe
+C:\Users\56\source\repos\MACNET\MACNET\obj\Release\MACNET.pdb
+C:\Users\56\source\repos\MACNET\MACNET\obj\Release\MACNET.csprojAssemblyReference.cache
